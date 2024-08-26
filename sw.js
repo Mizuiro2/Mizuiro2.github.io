@@ -7,7 +7,7 @@ const preCache = [
   "/Mizuiro2/mizuiro2.github.io.git/css/style.css",
   "/Mizuiro2/mizuiro2.github.io.git/js/script.js",
 ];
-const VERSION = "1724654395971";
+const VERSION = "1724654868587";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
