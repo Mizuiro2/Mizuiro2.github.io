@@ -1,13 +1,13 @@
-const swPath = "/sw.js";
+const swPath = "/Mizuiro2/mizuiro2.github.io.git/sw.js";
 const preCache = [
-  "/images/taichi.png",
-  "/images/banner.webp",
-  "/images/taichi-fill.png",
-  "/css/loader.css",
-  "/css/style.css",
-  "/js/script.js",
+  "/Mizuiro2/mizuiro2.github.io.git/images/taichi.png",
+  "/Mizuiro2/mizuiro2.github.io.git/images/banner.webp",
+  "/Mizuiro2/mizuiro2.github.io.git/images/taichi-fill.png",
+  "/Mizuiro2/mizuiro2.github.io.git/css/loader.css",
+  "/Mizuiro2/mizuiro2.github.io.git/css/style.css",
+  "/Mizuiro2/mizuiro2.github.io.git/js/script.js",
 ];
-const VERSION = "1724651065851";
+const VERSION = "1724654395971";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
